@@ -49,8 +49,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuroliveiradev&theme=radial" alt="GitHub Streak" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=arthuroliveiradev&theme=radial&no-frame=true" alt="Troféus GitHub" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthuroliveiradev&theme=2077" alt="Resumo do Perfil" />
 </p>
 
 ---
