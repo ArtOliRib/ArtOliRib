@@ -49,8 +49,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthuroliveiradev&show_icons=true&theme=radial" alt="Estatísticas do GitHub de Arthur" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuroliveiradev&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuroliveiradev&theme=radial" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arthuroliveiradev&theme=radial&no-frame=true" alt="Troféus GitHub" height="165" />
 </p>
 
 ---
